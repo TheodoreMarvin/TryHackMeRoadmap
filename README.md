@@ -39,7 +39,7 @@
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |                           |
 | **[Reconnaissance](#recon)**                      |     **10**      |                           |
 | **[Scripting](#scripting)**                       |      **8**      |                           |
-| **[Networking](#networking)**                     |      **7**      |                           |
+| **[Networking](#networking)**                     |      **7**      |           **6**           |
 | **[Tooling](#tooling)**                           |     **17**      |                           |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |                           |
 | **[Steganography](#steganography)**               |      **6**      |                           |
@@ -179,17 +179,17 @@
 
 ---
 
-- [ ] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
+- [X] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
-- [ ] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
+- [X] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
-- [ ] [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
+- [X] [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
 
-- [ ] [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
+- [X] [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
 
-- [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
+- [X] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
-- [ ] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
+- [X] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 
 - [ ] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
