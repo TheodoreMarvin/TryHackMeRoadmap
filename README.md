@@ -47,7 +47,7 @@
 | **[Android](#android)**                           |      **1**      |                           |
 | **[Forensics](#forensics)**                       |      **5**      |                           |
 | **[Wifi Hacking](#wi-fi-hacking)**                |      **1**      |                           |
-| **[Reverse Engineering](#reverse-engineering)**   |     **11**      |           **2**           |
+| **[Reverse Engineering](#reverse-engineering)**   |     **11**      |           **4**           |
 | **[Malware Analysis](#malware-analysis)**         |      **7**      |                           |
 | **[Privilege Escalation](#privesc)**              |     **13**      |                           |
 | **[Windows](#windows)**                           |      **7**      |                           |
@@ -353,9 +353,9 @@
 
 - [X] [TryHackMe | Windows x64 Assembly](https://tryhackme.com/room/win64assembly)
 
-- [ ] [TryHackMe | Reverse Engineering](https://tryhackme.com/room/reverseengineering)
+- [X] [TryHackMe | Reverse Engineering](https://tryhackme.com/room/reverseengineering)
 
-- [ ] [TryHackMe | Reversing ELF](https://tryhackme.com/room/reverselfiles)
+- [X] [TryHackMe | Reversing ELF](https://tryhackme.com/room/reverselfiles)
 
 - [ ] [TryHackMe | JVM Reverse Engineering](https://tryhackme.com/room/jvmreverseengineering)
 
