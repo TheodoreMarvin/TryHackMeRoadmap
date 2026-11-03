@@ -38,7 +38,7 @@
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |           **3**           |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |                           |
 | **[Reconnaissance](#recon)**                      |     **10**      |           **2**           |
-| **[Scripting](#scripting)**                       |      **8**      |                           |
+| **[Scripting](#scripting)**                       |      **8**      |           **1**           |
 | **[Networking](#networking)**                     |      **7**      |           **7**           |
 | **[Tooling](#tooling)**                           |     **17**      |                           |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |                           |
@@ -159,7 +159,7 @@
 
 ---
 
-- [ ] [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
+- [X] [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
 
 - [ ] [TryHackMe | Python Playground](https://tryhackme.com/room/pythonplayground)
 
