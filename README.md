@@ -41,7 +41,7 @@
 | **[Scripting](#scripting)**                       |      **8**      |           **1**           |
 | **[Networking](#networking)**                     |      **7**      |           **7**           |
 | **[Tooling](#tooling)**                           |     **17**      |                           |
-| **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |                           |
+| **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |           **2**           |
 | **[Steganography](#steganography)**               |      **6**      |                           |
 | **[Web](#web)**                                   |     **27**      |                           |
 | **[Android](#android)**                           |      **1**      |                           |
@@ -235,9 +235,9 @@
 
 ---
 
-- [ ] [TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
+- [X] [TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
 
-- [ ] [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
+- [X] [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
 
 - [ ] [TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
 
