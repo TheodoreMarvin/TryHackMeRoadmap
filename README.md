@@ -36,7 +36,7 @@
 | **[Introductory Rooms](#intro-rooms)**            |     **10**      |          **10**           |
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |           **5**           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |           **3**           |
-| **[Basic Rooms](#basics-rooms)**                  |      **9**      |                           |
+| **[Basic Rooms](#basics-rooms)**                  |      **9**      |           **1**           |
 | **[Reconnaissance](#recon)**                      |     **10**      |           **2**           |
 | **[Scripting](#scripting)**                       |      **8**      |           **5**           |
 | **[Networking](#networking)**                     |      **7**      |           **7**           |
@@ -113,7 +113,7 @@
 
 ---
 
-- [ ] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
+- [X] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
 - [ ] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 
