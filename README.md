@@ -48,7 +48,7 @@
 | **[Forensics](#forensics)**                       |      **5**      |                           |
 | **[Wifi Hacking](#wi-fi-hacking)**                |      **1**      |                           |
 | **[Reverse Engineering](#reverse-engineering)**   |     **11**      |           **4**           |
-| **[Malware Analysis](#malware-analysis)**         |      **7**      |           **1**           |
+| **[Malware Analysis](#malware-analysis)**         |      **7**      |           **2**           |
 | **[Privilege Escalation](#privesc)**              |     **13**      |                           |
 | **[Windows](#windows)**                           |      **7**      |                           |
 | **[Active Directory](#active-directory)**         |      **5**      |                           |
@@ -375,7 +375,7 @@
 
 - [X] [TryHackMe | History of Malware](https://tryhackme.com/room/historyofmalware)
 
-- [ ] [TryHackMe | MAL: Malware Introductory](https://tryhackme.com/room/malmalintroductory)
+- [X] [TryHackMe | MAL: Malware Introductory](https://tryhackme.com/room/malmalintroductory)
 
 - [ ] [TryHackMe | Basic Malware RE](https://tryhackme.com/room/basicmalwarere)
 
