@@ -37,7 +37,7 @@
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |           **5**           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |           **3**           |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |           **4**           |
-| **[Reconnaissance](#recon)**                      |     **10**      |           **2**           |
+| **[Reconnaissance](#recon)**                      |     **10**      |           **3**           |
 | **[Scripting](#scripting)**                       |      **8**      |           **5**           |
 | **[Networking](#networking)**                     |      **7**      |           **7**           |
 | **[Tooling](#tooling)**                           |     **17**      |                           |
@@ -145,7 +145,7 @@
 
 - [ ] [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
 
-- [ ] [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
+- [X] [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
 
 - [ ] [TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
 
